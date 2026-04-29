@@ -1,3 +1,9 @@
+# Dataset and derived cache files — download separately via Zenodo (see README)
+data/
+
+# macOS metadata
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
